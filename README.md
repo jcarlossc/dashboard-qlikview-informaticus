@@ -90,3 +90,33 @@ dashboard-qlikview-informaticus/
 
 ---
 
+## 📌 Modelo de Dados (Associativo)
+
+O modelo de dados segue o padrão estrela simplificada, utilizando:
+
+Vendas como tabela fato
+Produtos, Vendedor e Calendário como dimensões
+
+---
+
+## 📌 KPIs Desenvolvidos
+
+* Faturamento Total
+* Comissão
+* Margem
+* Lucro
+
+---
+
+## 📌 Documentação Adicional
+
+* Prints dos Dashboards: pasta imagens/
+
+---
+
+## 📌 Imagens
+
+<img src="imagens/vendas_01.png" alt="Imagem Dashboard">
+<img src="imagens/vendas_02.png" alt="Imagem Dashboard">
+
+---
