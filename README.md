@@ -161,7 +161,8 @@ cd dashboard-qlikview-informaticus
 visualizacao/visualizacao.qvw
 ```
 4. Caso o dashboard não seja executado:
-* 
+* Clique em <img src="imagens/botao_01.png" alt="Imagem Botão"> Recarregar
+* Caso tenha curiosidade, clique em <img src="imagens/botao_02.png" alt="Imagem Botão"> Visualizador de tamelas, para visualizar a estrutura de tabelas.
 
 ---
 
