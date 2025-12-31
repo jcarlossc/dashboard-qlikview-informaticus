@@ -161,11 +161,38 @@ cd dashboard-qlikview-informaticus
 visualizacao/visualizacao.qvw
 ```
 4. Caso o dashboard não seja executado:
-* Clique em <img src="imagens/botao_01.png" alt="Imagem Botão"> Recarregar
-* Caso tenha curiosidade, clique em <img src="imagens/botao_02.png" alt="Imagem Botão"> Visualizador de tamelas, para visualizar a estrutura de tabelas.
+* Clique em <img src="imagens/botao_01.png" alt="Imagem Botão"> Recarregar.
+* Caso tenha curiosidade, clique em <img src="imagens/botao_02.png" alt="Imagem Botão"> Visualizador de tabelas, para visualizar a estrutura de tabelas.
 
 ---
 
+## 📌 Contribuições
+Se quiser contribuir:
+1. Faça um fork deste repositório
+2. Crie uma branch para sua feature ou correção (git checkout -b minha-feature)
+3. Faça commits descritos claramente
+4. Submeta um Pull Request
+
+---
+
+## 📌 Licença
+Este projeto está licenciado sob a MIT License.
+
+---
+
+## 📌 Contatos
+📌Autor: Carlos da Costa<br>
+📌Recife, PE - Brasil<br>
+📌Telefone: +55 81 99712 9140<br>
+📌Telegram: @jcarlossc<br>
+📌Pypi: [https://pypi.org/user/jcarlossc/](https://pypi.org/user/jcarlossc/)><br>
+📌Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
+📌Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
+📌Email: jcarlossc1977@gmail.com<br>
+📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
+📌GitHub: https://github.com/jcarlossc<br>
+📌Kaggle: https://www.kaggle.com/jcarlossc/  
+📌Twitter/X: https://x.com/jcarlossc1977
 
 
 
