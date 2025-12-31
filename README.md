@@ -94,8 +94,8 @@ dashboard-qlikview-informaticus/
 
 O modelo de dados segue o padrão estrela simplificada, utilizando:
 
-Vendas como tabela fato
-Produtos, Vendedor e Calendário como dimensões
+* Vendas como tabela fato
+* Produtos, Vendedor e Calendário como dimensões
 
 ---
 
@@ -120,3 +120,51 @@ Produtos, Vendedor e Calendário como dimensões
 <img src="imagens/vendas_02.png" alt="Imagem Dashboard">
 
 ---
+
+## 📌 Como Baixar e Instalar o QlikView
+
+### 1️⃣ Download do QlikView
+
+1. Acesse o site oficial da Qlik:
+```
+https://www.qlik.com
+```
+2. Vá em Produtos → QlikView
+3. Faça login ou crie uma conta gratuita
+4. Baixe o QlikView Desktop (Personal Edition)<br>
+💡 A versão gratuita permite abrir e editar arquivos .qvw localmente.
+
+### 2️⃣ Instalação
+
+* Execute o instalador
+* Siga as instruções padrão
+* Reinicie o computador se solicitado
+
+---
+
+## 📌 Clonar o Repositório
+
+```
+git clone https://github.com/jcarlossc/dashboard-qlikview-informaticus.git
+cd dashboard-qlikview-informaticus
+```
+* Ou faça o download do projeto em .zip.
+
+---
+
+## 📌 Abrir o Projeto no QlikView
+
+1. Abra o QlikView Desktop
+2. Clique em File → Open
+3. Selecione o arquivo:
+```
+visualizacao/visualizacao.qvw
+```
+4. Caso o dashboard não seja executado:
+* 
+
+---
+
+
+
+
