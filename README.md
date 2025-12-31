@@ -29,7 +29,7 @@ O gestor precisa responder perguntas como:
 * Qual o faturamento mensal, trimestral e anual?
 * Quais produtos vendem mais?
 * Quantidade de vendas por vendedor
-* Commissão
+* Comissão
 * Margem
 * Lucro
 
@@ -45,13 +45,12 @@ O gestor precisa responder perguntas como:
 ---
 
 ## 📌 Tecnologias Utilizadas
-
-* QlikView Desktop
-* Banco de Dados SQL (fonte de dados)
-* Conector ODBC: conexão com o banco de dados (extração)
-* Modelagem associativa do Qlik
-* Expressões Qlik (Set Analysis)
-* Git/GitHub para versionamento
+| Tecnologia | Descrição |
+| ---------- | --------- |
+| QlikView Desktop | Plataforma de Business Intelligence (BI) | 
+| Stack XAMPP | Banco de Dados SQL (fonte de dados) |
+| Conector ODBC | Conexão com o banco de dados (extração) |
+| Git/GitHub | Versionamento |
 
 ---
 
@@ -85,7 +84,7 @@ dashboard-qlikview-informaticus/
 ├── visualizacao/
 │   └── visualizacao.qvw
 │
-├── license
+├── LICENSE
 └── README.md
 ```
 
